@@ -21,6 +21,7 @@ This project aims to explore and visualize the sales and profitability performan
   - Product Name
 
 
+---
 
 ##  Tools Used
 - **Tableau Desktop** for data visualization and dashboard creation  
@@ -55,11 +56,3 @@ This project aims to explore and visualize the sales and profitability performan
 - ✅ Focus marketing efforts on the **Technology** segment, especially in the **West** region.
 - ✅ Minimize excessive discounts, particularly on **low-margin categories**.
 - ✅ Promote **high-profit products** identified in the top 10 list to drive revenue.
-
----
-📫 Email: [your-email@example.com]  
-📍 Location: Kerala, India
-
----
-
-> *This project was completed as part of a Tableau data storytelling and visualization practice using the Superstore dataset.*
